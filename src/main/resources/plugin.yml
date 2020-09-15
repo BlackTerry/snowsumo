@@ -1,0 +1,4 @@
+name: Snowsumo
+version: ${project.version}
+main: com.finaldaylight.snowsumo.Main
+api-version: 1.15
